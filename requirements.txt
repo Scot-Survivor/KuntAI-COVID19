@@ -2,3 +2,4 @@ tensorflow==2.3.1
 tensorboard-plugin-profile==2.4.0
 pandas==1.2.4
 pydicom==2.1.2
+Pillow==8.2.0
